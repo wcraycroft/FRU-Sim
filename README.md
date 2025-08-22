@@ -10,6 +10,7 @@ To download the sim, head to the ⁠[releases](https://github.com/WCGH/FRU-Sim/r
 
 
 ## Known Issues:
+- There is an issue with AMD GPU driver version 25.8.1 that will cause bugged textures. Until AMD provides a fix, you can try reverting your drivers to an earlier version.
 - The sim may not run on some laptop or Intel GPU's. Let me know if this is the case for you and I can send you a version that may work.
 - Characters sometimes get stuck running in place.
 - Crystallize Time: bots will sometimes get hit by waves or fail to find their soaks.
